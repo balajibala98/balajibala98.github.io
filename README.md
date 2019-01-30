@@ -26,8 +26,8 @@ A callback function that is executed when the request completes.
 <p><strong>eg:</strong>
 <br>
 $(function(){
-      $("#includedContent").load("b.html"); 
+      $("#includedContent").load("sample.html"); 
     });
     <br>
-    It will load the b.html file into a.html file to show the content
+    It will load the b.html file into index.html file to show the content
 </p>
